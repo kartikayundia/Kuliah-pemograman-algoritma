@@ -1,0 +1,7 @@
+Azmi punya gelas ukuran 8 liter berisi air penuhh dan gelas kosong ukuran 5 liter dan 3 liter. Kemudian anggun ingin meminta air hanya 4 liter saja. Buatlah algoritma supaya anggun mendapatkan air tepat seperti yang dia inginkan.
+Berikut step algoritma:
+1.	Air dari gelas A berukuran 8 liter, dituangkan ke gelas C yang kosong. Sehingga sekarang gelas A tersisa 5 liter dan gelas C sekarang berisi 3 liter
+2.	Air dari gelas A yang tersisa 5 liter dituangkan ke gelas B ukuran 5 liter. Sehingga sekarang gelas A kosong,dan gelas B sekarang berisi 5 liter
+3.	Gelas C yang berukuran 3 liter dituangkan ke gelas A 3 liter. Sehingga sekarang gelas C kosong,dan gelas A 3 liter
+4.	Gelas B berukuran 5 liter dituangkan ke gelas C ukuran 3 liter. Sehingga sekarang gelas B sisa 1 liter,dan gelas C 3 liter
+5.	Gelas B yang tersisa 1 liter dituangkan ke gelas A yang sebelumnya sudah terisi 3 liter. Sehinga sekarang gelas B kosong,dan gelas A menjadi 4 liter
