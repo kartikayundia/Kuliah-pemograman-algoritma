@@ -35,3 +35,15 @@ luas = panjang * lebar
 
 print("Luas Persegi Panjang:", luas)
 Penjelasan: Kode di atas menggunakan fungsi input() untuk memungkinkan pengguna memasukkan nilai panjang dan lebar persegi panjang. Nilai tersebut kemudian dikalikan untuk mendapatkan luas persegi panjang, yang kemudian dicetak menggunakan perintah print().
+5.Berikut adalah contoh program python yang dapat menghitung luas lingkaran berdasarkan jari" yang diinput oleh pengguna:
+import math
+#meminta input jari-jari dari pengguna
+jari_jari= float (input(
+
+# Menghitung luas lingkaran
+luas = math.pi * (jari_jari ** 2)
+
+# Menampilkan hasil luas lingkaran
+print("Luas lingkaran dengan jari-jari", jari_jari, "adalah", luas)
+Program ini menggunakan modul math dari Python untuk mengakses nilai pi (math.pi). Setelah meminta input dari pengguna dalam bentuk jari-jari, program menghitung luas lingkaran menggunakan rumus pi * r^2, di mana r adalah jari-jari. Kemudian, hasil luas lingkaran ditampilkan ke layar.
+Anda dapat menguji program ini dengan menjalankannya di lingkungan Python Anda dan memasukkan nilai jari-jari yang diinginkan saat diminta.
