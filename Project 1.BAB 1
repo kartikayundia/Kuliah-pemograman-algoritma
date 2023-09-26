@@ -1,0 +1,37 @@
+1.Kode Python untuk operasi aritmatika:
+# Operasi Aritmatika
+a = 10
+b = 5
+
+tambah = a + b # Penjumlahan
+kurang = a - b # Pengurangan
+kali = a * b # Perkalian
+bagi = a / b # Pembagian
+mod = a % b # Modulus
+
+print("Hasil Penjumlahan:", tambah)
+print("Hasil Pengurangan:", kurang)
+print("Hasil Perkalian:", kali)
+print("Hasil Pembagian:", bagi)
+print("Sisa Pembagian:", mod)
+
+Penjelasan: Kode di atas menginisialisasi dua variabel a dan b dengan nilai 10 dan 5. Kemudian dilakukan operasi aritmatika seperti penjumlahan, pengurangan, perkalian, pembagian, dan modulus menggunakan operator matematika yang sesuai. Hasil dari masing-masing operasi tersebut dicetak menggunakan perintah print().
+2.Kode Python untuk mencetak informasi pribadi:
+# Informasi Pribadi
+nama = "Kartika Yundia"
+alamat = "Lelong, kelebuh, praya tengah, nusa tenggara barat"
+nomor_telepon = "083899278585"
+
+print("Nama:", nama)
+print("Alamat:", alamat)
+print("Nomor Telepon:", nomor_telepon)
+Penjelasan: Kode di atas menginisialisasi tiga variabel nama, alamat, dan nomor_telepon dengan nilai yang sesuai. Kemudian, menggunakan perintah print(), informasi pribadi tersebut dicetak satu per satu dengan ditambahkan keterangan yang sesuai.
+3.Kode Python untuk menghitung luas persegi panjang dengan fungsi input:
+# Menghitung Luas Persegi Panjang
+panjang = float(input("Masukkan panjang: "))
+lebar = float(input("Masukkan lebar: "))
+
+luas = panjang * lebar
+
+print("Luas Persegi Panjang:", luas)
+Penjelasan: Kode di atas menggunakan fungsi input() untuk memungkinkan pengguna memasukkan nilai panjang dan lebar persegi panjang. Nilai tersebut kemudian dikalikan untuk mendapatkan luas persegi panjang, yang kemudian dicetak menggunakan perintah print().
