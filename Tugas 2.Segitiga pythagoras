@@ -1,0 +1,12 @@
+Algoritma
+1.buat a=3
+2.buat b=4
+3.hutang akar(a*a+b*b) dan semua hasilnya di hasil c
+4.tampilkan c
+
+
+a=6
+b=8
+c=a*a+b*b | c=100
+c= c**0,5 | c=10
+print(c)
