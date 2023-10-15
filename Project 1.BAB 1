@@ -1,1 +1,24 @@
+SEBELUM:
 
+nama = input ("masukan NIM anda : ")
+print("nama : Kartika yundia")
+print("alamat : Lelong,kelebuh")
+print("TTL : lelong,22 januari 2005")
+print("Hobi : denger lagu")
+print("Cita-cita : suksess")
+anak = input ("Anak Ke Berapa : ")
+print("Hayy Anak ke2")
+print("inilah biodata saya")
+
+SESUDAH:
+
+masukan NIM anda : 5520123025
+nama :Kartika yundia
+alamat : lelong, kelebuh
+TTL : lelong,22 januari 2005
+Hobi : denger lagu
+Cita-cita : suksess
+Anak Ke Berapa : ke2
+inilah biodata saya
+
+[Process completed - press Enter]
