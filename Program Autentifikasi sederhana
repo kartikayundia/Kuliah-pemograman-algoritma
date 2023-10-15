@@ -1,0 +1,20 @@
+print("-------------------------------------------------------------------")
+print("|                        Autentifikasi User                       |")
+print("-------------------------------------------------------------------")
+
+username_1 = input("buat username baru anda : ")
+password_1 = input("buat password baru anda : ")
+
+print("---------- DATA DIKONFIRMASI ----------")
+print("                                       ")
+username_2 = input("masukkan username anda :  ")
+password_2 = input("masukkan sandi anda    :  ")
+
+if username_2==username_1 and password_2==password_1:
+    print("---------------------------------------------")
+    print("Login Diterima, Selamat Datang " + username_1 )
+    print("---------------------------------------------")
+else:
+    print("---------------------------------------------")
+    print("     Username atau Kata Sandi Salah!!!!!     ")
+    print("---------------------------------------------")
